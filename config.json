@@ -1,0 +1,4 @@
+{
+    "log_file": "optimizer.log",
+    "supported_os": ["Windows", "Linux"]
+}
